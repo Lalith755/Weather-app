@@ -55,7 +55,8 @@ button {
 #weatherResult {
   margin-top: 20px;
 }
-const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+const apiKey = 'your_actual_api_key_here';
+ // Replace with your actual API key
 
 function getWeather() {
   const city = document.getElementById('cityInput').value;
